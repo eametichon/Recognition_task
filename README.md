@@ -1,4 +1,4 @@
-Recognition_tast
+Recognition_task
 ================
 
 Face recognition, Digit recognition and Text recognition
